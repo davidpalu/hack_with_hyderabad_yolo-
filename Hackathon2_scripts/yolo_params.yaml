@@ -1,0 +1,5 @@
+train: /Users/aaronjoshua/Desktop/MicrosoftFalcon/data/train_1/train1
+val: /Users/aaronjoshua/Desktop/MicrosoftFalcon/data/train_1/val1
+test: /Users/aaronjoshua/Desktop/MicrosoftFalcon/data/test1
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         
